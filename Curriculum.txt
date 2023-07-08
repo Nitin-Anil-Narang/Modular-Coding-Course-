@@ -1,0 +1,66 @@
+Modular Coding Course Curriculum.
+The is course is designed heavily on ability of software to work cross platform, due to this majority of the course will be conducted on UNIX/UNIX-LIKE (LINUX) OS. Also knowing that commonly used and available OS is Windows, the course will provide the necessary tools and approach.
+Major Topic
+•	Mastery Over the Command Line.
+•	Git and GitHub. 
+•	GNU Make.
+•	Cmake.
+•	Basic of C and C++.
+•	DSA (Data structure and algorithm’s) in C++ and More to come…
+
+
+This Course will also have groups of individual working together on project provide throughout the curriculum, As well as Individual projects depending on the skills of the respective Individual.
+
+
+ 
+Sub-Sections of the Topics.
+•	Mastery Over the Command Line.
+1.	Introduction.
+2.	Commands Basics.
+3.	Getting Help.
+4.	Navigation.
+5.	Creating Files & Folders.
+6.	Nano.
+7.	Deleting, Copying, & Moving and More.
+
+•	Git and GitHub. 
+1.	Introduction.
+2.	Git Installation
+3.	Git Quick Start.
+4.	Text Editor Installation.
+5.	Basic Git Commands.
+6.	Visual MergeDiff Tool Installation.
+7.	Comparisons.
+8.	Branching and Merging and More.
+
+•	GNU Make.
+1.	Introduction.
+2.	Creation of Project Folder Structure.
+3.	Structure of Makefile
+4.	First Makefile and Move.
+
+•	Cmake.
+1.	Introduction.
+2.	Basics.
+3.	CMake Variables.
+4.	Control flow.
+5.	Organizing the project structure and More.
+•	Basic of C and C++.
+1.	Introduction.
+2.	Basic Concepts.
+3.	Variables and Data Types.
+4.	Operators.
+5.	Control Flow.
+6.	Functions and More.
+
+•	DSA (Data structure and algorithm’s) in C++.
+1.	OOP – Basics.
+2.	OOP – Advanced.
+3.	Basic Sorting Algorithm.
+4.	Binary Sorting Algorithm.
+5.	Recursion – Basics.
+6.	Recursion – Intermediate.
+7.	Recursion – Advanced and More.
+
+
+*As this is a Modular curriculum this document will be modified as the course progresses *
