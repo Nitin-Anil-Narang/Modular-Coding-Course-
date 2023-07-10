@@ -17,6 +17,7 @@ Farm/
 
 **From this point forward, ONLY use the terminal to accomplish the following:**
 
+
 1. Open a new terminal window. Navigate to the `Farm` folder.
 2. List the contents of the `Farm` directory.
 3. "Move" into the `Coop` folder.
